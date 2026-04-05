@@ -24,7 +24,7 @@ I then create a **security group** by the name of **Edmonton Security Users**:
 <img width="191" height="92" alt="image" src="https://github.com/user-attachments/assets/6721d9df-6281-4722-bad1-acc004edfcd4" />
 
 
-I then made myself a user of this security group:
+I then made myself a member of this security group:
 
 <img width="401" height="347" alt="image" src="https://github.com/user-attachments/assets/cd2a5db0-f3b1-4a32-aa3e-5a9037ee0a57" />
 
@@ -38,4 +38,4 @@ This allowed me to join that computer to he smansoor.local domain that I initial
 
 <img width="1012" height="850" alt="image" src="https://github.com/user-attachments/assets/e7068bac-e656-4085-b804-0dc6ed49136d" />
 
-This allows me to manage the computer, as well as the users and their permissions on the computer within my domains.
+This allows me to manage the computers, as well as the users and their permissions on the computer within my domain.
